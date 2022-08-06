@@ -23,4 +23,4 @@ I am building this GSI with specific fixes for Poco F4 / Redmi K40s (munch), pur
 6. fastboot reboot and enjoy
 
 ## Downloads -
-https://github.com/Umang96/munch_pe_custom_gsi_releases/releases/
+https://github.com/Umang96/munch_pe_custom_gsi_releases/releases/tag/06-Aug-2022
